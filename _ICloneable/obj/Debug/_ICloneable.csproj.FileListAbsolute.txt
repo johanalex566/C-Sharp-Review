@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_ICloneable\bin\Debug\_ICloneable.exe.config
+C:\Users\johan\Documents\CursoSharp\_ICloneable\bin\Debug\_ICloneable.exe
+C:\Users\johan\Documents\CursoSharp\_ICloneable\bin\Debug\_ICloneable.pdb
+C:\Users\johan\Documents\CursoSharp\_ICloneable\obj\Debug\_ICloneable.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\_ICloneable\obj\Debug\_ICloneable.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_ICloneable\obj\Debug\_ICloneable.exe
+C:\Users\johan\Documents\CursoSharp\_ICloneable\obj\Debug\_ICloneable.pdb

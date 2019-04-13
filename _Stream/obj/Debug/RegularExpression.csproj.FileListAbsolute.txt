@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_Stream\bin\Debug\_Stream.exe.config
+C:\Users\johan\Documents\CursoSharp\_Stream\bin\Debug\_Stream.exe
+C:\Users\johan\Documents\CursoSharp\_Stream\bin\Debug\_Stream.pdb
+C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\_Stream.exe
+C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\_Stream.pdb
+C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\RegularExpression.csprojAssemblyReference.cache

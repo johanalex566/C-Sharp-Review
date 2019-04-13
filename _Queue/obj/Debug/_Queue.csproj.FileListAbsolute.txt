@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_Queue\bin\Debug\_Queue.exe.config
+C:\Users\johan\Documents\CursoSharp\_Queue\bin\Debug\_Queue.exe
+C:\Users\johan\Documents\CursoSharp\_Queue\bin\Debug\_Queue.pdb
+C:\Users\johan\Documents\CursoSharp\_Queue\obj\Debug\_Queue.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\_Queue\obj\Debug\_Queue.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_Queue\obj\Debug\_Queue.exe
+C:\Users\johan\Documents\CursoSharp\_Queue\obj\Debug\_Queue.pdb

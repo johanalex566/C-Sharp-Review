@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_SortedList\bin\Debug\_SortedList.exe.config
+C:\Users\johan\Documents\CursoSharp\_SortedList\bin\Debug\_SortedList.exe
+C:\Users\johan\Documents\CursoSharp\_SortedList\bin\Debug\_SortedList.pdb
+C:\Users\johan\Documents\CursoSharp\_SortedList\obj\Debug\_SortedList.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\_SortedList\obj\Debug\_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_SortedList\obj\Debug\_SortedList.exe
+C:\Users\johan\Documents\CursoSharp\_SortedList\obj\Debug\_SortedList.pdb

@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_ArrayList\bin\Debug\_ArrayList.exe.config
+C:\Users\johan\Documents\CursoSharp\_ArrayList\bin\Debug\_ArrayList.exe
+C:\Users\johan\Documents\CursoSharp\_ArrayList\bin\Debug\_ArrayList.pdb
+C:\Users\johan\Documents\CursoSharp\_ArrayList\obj\Debug\_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_ArrayList\obj\Debug\_ArrayList.exe
+C:\Users\johan\Documents\CursoSharp\_ArrayList\obj\Debug\_ArrayList.pdb
+C:\Users\johan\Documents\CursoSharp\_ArrayList\obj\Debug\_ArrayList.csprojAssemblyReference.cache

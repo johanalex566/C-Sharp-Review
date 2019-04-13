@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_action\bin\Debug\_action.exe.config
+C:\Users\johan\Documents\CursoSharp\_action\bin\Debug\_action.exe
+C:\Users\johan\Documents\CursoSharp\_action\bin\Debug\_action.pdb
+C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.exe
+C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.pdb

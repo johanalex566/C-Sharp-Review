@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\CollectionGen\bin\Debug\CollectionGen.exe.config
+C:\Users\johan\Documents\CursoSharp\CollectionGen\bin\Debug\CollectionGen.exe
+C:\Users\johan\Documents\CursoSharp\CollectionGen\bin\Debug\CollectionGen.pdb
+C:\Users\johan\Documents\CursoSharp\CollectionGen\obj\Debug\CollectionGen.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\CollectionGen\obj\Debug\CollectionGen.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\CollectionGen\obj\Debug\CollectionGen.exe
+C:\Users\johan\Documents\CursoSharp\CollectionGen\obj\Debug\CollectionGen.pdb

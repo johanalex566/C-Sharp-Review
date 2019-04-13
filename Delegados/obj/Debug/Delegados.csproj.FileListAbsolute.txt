@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\Delegados\bin\Debug\Delegados.exe.config
+C:\Users\johan\Documents\CursoSharp\Delegados\bin\Debug\Delegados.exe
+C:\Users\johan\Documents\CursoSharp\Delegados\bin\Debug\Delegados.pdb
+C:\Users\johan\Documents\CursoSharp\Delegados\obj\Debug\Delegados.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\Delegados\obj\Debug\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\Delegados\obj\Debug\Delegados.exe
+C:\Users\johan\Documents\CursoSharp\Delegados\obj\Debug\Delegados.pdb

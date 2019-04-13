@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_BitArray\bin\Debug\_BitArray.exe.config
+C:\Users\johan\Documents\CursoSharp\_BitArray\bin\Debug\_BitArray.exe
+C:\Users\johan\Documents\CursoSharp\_BitArray\bin\Debug\_BitArray.pdb
+C:\Users\johan\Documents\CursoSharp\_BitArray\obj\Debug\_BitArray.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\_BitArray\obj\Debug\_BitArray.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_BitArray\obj\Debug\_BitArray.exe
+C:\Users\johan\Documents\CursoSharp\_BitArray\obj\Debug\_BitArray.pdb

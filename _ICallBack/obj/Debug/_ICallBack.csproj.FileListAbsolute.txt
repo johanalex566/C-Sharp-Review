@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\_ICallBack\obj\Debug\_ICallBack.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\_ICallBack\obj\Debug\_ICallBack.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\_ICallBack\bin\Debug\_ICallBack.exe.config
+C:\Users\johan\Documents\CursoSharp\_ICallBack\bin\Debug\_ICallBack.exe
+C:\Users\johan\Documents\CursoSharp\_ICallBack\bin\Debug\_ICallBack.pdb
+C:\Users\johan\Documents\CursoSharp\_ICallBack\obj\Debug\_ICallBack.exe
+C:\Users\johan\Documents\CursoSharp\_ICallBack\obj\Debug\_ICallBack.pdb

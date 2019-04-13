@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\ClaseGenerica\bin\Debug\ClaseGenerica.exe.config
+C:\Users\johan\Documents\CursoSharp\ClaseGenerica\bin\Debug\ClaseGenerica.exe
+C:\Users\johan\Documents\CursoSharp\ClaseGenerica\bin\Debug\ClaseGenerica.pdb
+C:\Users\johan\Documents\CursoSharp\ClaseGenerica\obj\Debug\ClaseGenerica.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\ClaseGenerica\obj\Debug\ClaseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\ClaseGenerica\obj\Debug\ClaseGenerica.exe
+C:\Users\johan\Documents\CursoSharp\ClaseGenerica\obj\Debug\ClaseGenerica.pdb

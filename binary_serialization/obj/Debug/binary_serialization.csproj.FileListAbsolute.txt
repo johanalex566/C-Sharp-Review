@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\binary_serialization\bin\Debug\binary_serialization.exe.config
+C:\Users\johan\Documents\CursoSharp\binary_serialization\bin\Debug\binary_serialization.exe
+C:\Users\johan\Documents\CursoSharp\binary_serialization\bin\Debug\binary_serialization.pdb
+C:\Users\johan\Documents\CursoSharp\binary_serialization\obj\Debug\binary_serialization.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\binary_serialization\obj\Debug\binary_serialization.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\binary_serialization\obj\Debug\binary_serialization.exe
+C:\Users\johan\Documents\CursoSharp\binary_serialization\obj\Debug\binary_serialization.pdb

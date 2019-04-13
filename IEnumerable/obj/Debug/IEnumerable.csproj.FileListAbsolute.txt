@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\CursoSharp\IEnumerable\bin\Debug\IEnumerable.exe.config
+C:\Users\johan\Documents\CursoSharp\IEnumerable\bin\Debug\IEnumerable.exe
+C:\Users\johan\Documents\CursoSharp\IEnumerable\bin\Debug\IEnumerable.pdb
+C:\Users\johan\Documents\CursoSharp\IEnumerable\obj\Debug\IEnumerable.csprojAssemblyReference.cache
+C:\Users\johan\Documents\CursoSharp\IEnumerable\obj\Debug\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\CursoSharp\IEnumerable\obj\Debug\IEnumerable.exe
+C:\Users\johan\Documents\CursoSharp\IEnumerable\obj\Debug\IEnumerable.pdb
