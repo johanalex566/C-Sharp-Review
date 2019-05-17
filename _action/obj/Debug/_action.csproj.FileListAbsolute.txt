@@ -5,3 +5,10 @@ C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.csprojAssemblyRefe
 C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.csproj.CoreCompileInputs.cache
 C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.exe
 C:\Users\johan\Documents\CursoSharp\_action\obj\Debug\_action.pdb
+C:\CShart\_action\bin\Debug\_action.exe.config
+C:\CShart\_action\bin\Debug\_action.exe
+C:\CShart\_action\bin\Debug\_action.pdb
+C:\CShart\_action\obj\Debug\_action.csprojAssemblyReference.cache
+C:\CShart\_action\obj\Debug\_action.csproj.CoreCompileInputs.cache
+C:\CShart\_action\obj\Debug\_action.exe
+C:\CShart\_action\obj\Debug\_action.pdb

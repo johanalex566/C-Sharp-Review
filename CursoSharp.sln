@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateGeneric", "Delegate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_action", "_action\_action.csproj", "{04B88FB0-8B57-444C-B865-D74F2CE1AFD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoAnonimos", "MetodoAnonimos\MetodoAnonimos.csproj", "{0C29FD2C-5AAC-4246-AD1B-018F31293DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Predicate", "_Predicate\_Predicate.csproj", "{7AD28534-794A-4B69-95BE-1A07CA1E6549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{04B88FB0-8B57-444C-B865-D74F2CE1AFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B88FB0-8B57-444C-B865-D74F2CE1AFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B88FB0-8B57-444C-B865-D74F2CE1AFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C29FD2C-5AAC-4246-AD1B-018F31293DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C29FD2C-5AAC-4246-AD1B-018F31293DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C29FD2C-5AAC-4246-AD1B-018F31293DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C29FD2C-5AAC-4246-AD1B-018F31293DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD28534-794A-4B69-95BE-1A07CA1E6549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD28534-794A-4B69-95BE-1A07CA1E6549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD28534-794A-4B69-95BE-1A07CA1E6549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD28534-794A-4B69-95BE-1A07CA1E6549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

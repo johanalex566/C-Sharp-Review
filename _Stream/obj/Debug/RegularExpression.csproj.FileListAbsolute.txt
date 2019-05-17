@@ -5,3 +5,10 @@ C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\RegularExpression.csproj.C
 C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\_Stream.exe
 C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\_Stream.pdb
 C:\Users\johan\Documents\CursoSharp\_Stream\obj\Debug\RegularExpression.csprojAssemblyReference.cache
+C:\CShart\_Stream\bin\Debug\_Stream.exe.config
+C:\CShart\_Stream\bin\Debug\_Stream.exe
+C:\CShart\_Stream\bin\Debug\_Stream.pdb
+C:\CShart\_Stream\obj\Debug\RegularExpression.csprojAssemblyReference.cache
+C:\CShart\_Stream\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\CShart\_Stream\obj\Debug\_Stream.exe
+C:\CShart\_Stream\obj\Debug\_Stream.pdb

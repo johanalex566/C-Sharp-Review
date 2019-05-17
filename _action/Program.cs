@@ -21,6 +21,10 @@ namespace _action
 
             delAction(menssage, number);
 
+            //Definimos el function, el último parametro es siempre el tipo que retorna.
+            Func<int, int, int> func = new Func<int, int, int>(suma);
+            Console.WriteLine(func(2,3));
+            Console.ReadKey();
         }
 
         public static void RepiteMenssage(string menssage, int number)
@@ -29,7 +33,17 @@ namespace _action
             {
                 Console.WriteLine(menssage);
             }
-            Console.ReadKey();
+        }
+        public static int suma(int a, int b)
+        {
+            try
+            {
+                return a + b;
+            }
+            catch (Exception)
+            {
+                throw new Exception();
+            }
         }
     }
 }

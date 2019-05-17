@@ -1,0 +1,7 @@
+C:\CShart\MetodoAnonimos\bin\Debug\MetodoAnonimos.exe.config
+C:\CShart\MetodoAnonimos\bin\Debug\MetodoAnonimos.exe
+C:\CShart\MetodoAnonimos\bin\Debug\MetodoAnonimos.pdb
+C:\CShart\MetodoAnonimos\obj\Debug\MetodoAnonimos.csprojAssemblyReference.cache
+C:\CShart\MetodoAnonimos\obj\Debug\MetodoAnonimos.csproj.CoreCompileInputs.cache
+C:\CShart\MetodoAnonimos\obj\Debug\MetodoAnonimos.exe
+C:\CShart\MetodoAnonimos\obj\Debug\MetodoAnonimos.pdb
