@@ -30,7 +30,7 @@ namespace _Predicate
             {
                 Console.WriteLine(n);
             }
-            Console.ReadKey();
+         
         }
 
         static bool pares(int n)
